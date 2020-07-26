@@ -1,4 +1,4 @@
-# Proyecto-JSP-MySQL-SERVLETS-BOOTSTRAP
+# CRUD-JSP-MySQL-SERVLETS-BOOTSTRAP
 Aplicacion web, utilizando JSPs. servlets, para realizar un control de clientes, 
 que permite, agregar, editar y eliminar registros de una base de datos,
 y realizar operaciones de suma para totalizacion de datos
